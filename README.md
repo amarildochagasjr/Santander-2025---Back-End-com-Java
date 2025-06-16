@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://hermes.dio.me/assets/diome/logo.svg" alt="DIO Logo" width="300"/>
   <br/>
-  <img src="./Santander-2025--Back-End-com-Java--Desafio-1/assets/backend-com-java.png" alt="Bootcamp Logo" width="100"/>
+  <br/>
+  <br/>
+  <img src="./assets/backend com java.png" alt="Bootcamp Logo" width="100"/>
 </p>
 
 # 📌 Projeto ContaBanco
@@ -28,22 +30,24 @@ Em seguida, o sistema busca os dados pré-cadastrados, verifica a existência da
 ## ⚙️ Como Funciona ?
 
 1️⃣ Usuário digita o número da conta;
+
 2️⃣ Usuário digita o número da  agência;
+
 3️⃣ Após digitar o sistema verifica se os dados estão cadastrados e exibe as seguintes mensagens:
 
 - Cliente com conta e saldo positivo:
 
-<img src="./Santander-2025--Back-End-com-Java--Desafio-1/assets/saldopositivo.png" alt="image" width="100"/>
+<img src="./assets/saldopositivo.png" alt="image" width="1000"/>
 
 - Cliente com conta e saldo negativo:
 
-<img src="./Santander-2025--Back-End-com-Java--Desafio-1/assets/saldonegativo.png" alt="image" width="100"/>
+<img src="./assets/saldonegativo.png" alt="image" width="1000"/>
 
 - Cliente inexistente:
 
- <img src="./Santander-2025--Back-End-com-Java--Desafio-1/assets/dadosinvalidos.png" alt="image" width="100"/>
+ <img src="./assets/dadosinvalidos.png" alt="image" width="1000"/>
 
-## 💻 Como Executar
+## 💻 Como Executar ?
 
 1️⃣ Clone o repositório:
 ```bash
