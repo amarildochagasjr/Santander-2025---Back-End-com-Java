@@ -8,8 +8,7 @@
 
 # 📌 Projeto ContaBanco
 
-Este projeto foi desenvolvido como parte do desafio **Simulando Uma Conta Bancária Através Do Terminal/Console
-** do Bootcamp DIO.  
+Este projeto foi desenvolvido como parte do desafio **Simulando Uma Conta Bancária Através Do Terminal/Console** do Bootcamp DIO.  
 O objetivo é criar um programa que simula a abertura de uma conta bancária, solicitando informações ao usuário via terminal e exibindo uma mensagem final personalizada com os dados fornecidos.
 
 ## 🚀 Tecnologias Utilizadas
